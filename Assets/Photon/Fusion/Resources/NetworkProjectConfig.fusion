@@ -96,7 +96,8 @@
     },
     "AssembliesToWeave": [
         "Assembly-CSharp",
-        "Assembly-CSharp-firstpass"
+        "Assembly-CSharp-firstpass",
+        "AsmDefCore"
     ],
     "UseSerializableDictionary": true,
     "NullChecksForNetworkedProperties": true,
